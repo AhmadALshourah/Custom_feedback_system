@@ -1,0 +1,1 @@
+An automated tool designed to analyze and categorize student feedback using Large Language Models (LLMs). This system processes raw feedback from CSV files, classifies it into predefined categories, and extracts relevant keywords to provide actionable insights for educational improvement.
